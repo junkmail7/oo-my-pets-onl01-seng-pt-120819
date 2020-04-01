@@ -79,6 +79,7 @@ class Owner
       dog.mood="nervous"
       dog.owner=nil
     end
+<<<<<<< HEAD
   end
   
   def list_pets
@@ -86,5 +87,7 @@ class Owner
     numcats=cats.size
     list="I have #{numdogs} dog(s), and #{numcats} cat(s)."
     list
+=======
+>>>>>>> 7ec54552715caa3489ea8a3c0c8d8bf5d250fa44
   end
 end
